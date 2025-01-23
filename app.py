@@ -5,7 +5,6 @@ Created on Wed Jan 22 11:25:41 2025
 @author: mk
 """
 #import libaries
-pip install scikit-learn
 import streamlit as st
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
