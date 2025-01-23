@@ -6,7 +6,7 @@ Created on Wed Jan 22 11:25:41 2025
 """
 #import libaries
 import streamlit as st
-import pickel
+import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 #load data
